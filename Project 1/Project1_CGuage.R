@@ -2,7 +2,7 @@
 ## LAB 1
 ##
 ## Name: Cameron Guage
-## Data: May 5 - May 12
+## Date: May 5 - May 12
 
 covid_data = read_csv("31117262.csv"); covid_data
 
