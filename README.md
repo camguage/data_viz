@@ -16,6 +16,6 @@ This plot uses data from [The Atlantic's COVID Tracking Project](https://covidtr
 
 ---
 
-## Project 3
+## [Project 3](https://github.com/camguage/data_viz/tree/main/Project%203)
 
-This plot uses data from this [time-series](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv) data about global COVID-19 deaths.
+This plot uses data from this [time-series data](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv) about global COVID-19 deaths. It shows the number of COVID-19 deaths that occurred in each country at different points during the first two months of the pandemic. Particularly noticeable is the United States' growth as a hotspot.
