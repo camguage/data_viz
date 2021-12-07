@@ -1,6 +1,6 @@
 # Visualiztions
 These are my projects from QSS 17 (Data Visualization), a course at Dartmouth College. Each project focused on a different aspect of the COVID-19 pandemic and was created as pandemic data became publicly available in spring of 2020.
-Each folder in the repo contains an R script and a pdf rendering of the output for each project.
+Each folder in the repo contains an R script and a pdf rendering of the script's output.
 
 ---
 
