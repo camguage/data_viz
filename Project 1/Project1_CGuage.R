@@ -44,4 +44,3 @@ covid_data %>%
 
 ## !str_detect removes any string that contains "Refused" from this column, which was especially useful because many different strings in this new column contained "Refused".
 ## idea inspired by: https://stackoverflow.com/questions/22249702/delete-rows-containing-specific-strings-in-r
-
