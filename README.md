@@ -6,4 +6,4 @@ The repo contains R scripts and a pdf rendering of the output for each project.
 
 ## Project1
 
-This plot uses data from the Pew Research Center: American Trends Panel Wave
+This plot uses data from the [Pew Research Center: American Trends Panel Wave 64](https://ropercenter.cornell.edu/ipoll/study/31117262). It explores the relationship between opinion of Donald Trump and two variables: Personal Financial Threat Posed by the COVID-19 Pandemic and Political Ideology. One point of note is that, while the proportion of respondents who "Strongly Disapprove" and 
