@@ -12,8 +12,10 @@ This plot uses data from the [Pew Research Center: American Trends Panel Wave 64
 
 ## Project2
 
-This plot uses data from The [Atlantic's COVID Tracking Project](https://covidtracking.com/data/api). It simply shows the number of COVID-19 tests distributed in each state, faceted by geographic region (and arranged to approximate the physical location of these regions).
+This plot uses data from [The Atlantic's COVID Tracking Project](https://covidtracking.com/data/api). It simply shows the number of COVID-19 tests distributed in each state, faceted by geographic region (and arranged to approximate the physical location of these regions).
 
 ---
 
 ## Project3
+
+This plot uses data from this [time-series](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv) data about global COVID-19 deaths.
