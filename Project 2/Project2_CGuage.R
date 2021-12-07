@@ -2,7 +2,7 @@
 ## LAB 2
 ##
 ## Name: Cameron Guage
-## Data: May 13 - May 20
+## Date: May 13 - May 20
 
 
 library(tidyverse)
